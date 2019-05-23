@@ -1,0 +1,9 @@
+Name,Xpath
+caja_search,"//*[@id=""side""]/div[1]/div/label/input"
+message_box,"//*[@id=""main""]/footer/div[1]/div[2]/div/div[2]"
+send_button,"//*[@id=""main""]/footer/div[1]/div[3]/button"
+clip_button,"//*[@id=""main""]/header/div[3]/div/div[2]/div"
+image_button,"//*[@id=""main""]/header/div[3]/div/div[2]/span/div/div/ul/li[1]/button/input"
+image_send_button,"//*[@id=""app""]/div/div/div[2]/div[2]/span/div/span/div/div/div[2]/span[2]/div/div"
+perfil_button,"//*[@id=""side""]/header/div[1]/div/div/span"
+perfil_image,"//*[@id=""app""]/div/div/div[2]/div[1]/span/div/div/div/div[1]/div/div/span"
